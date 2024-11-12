@@ -28,7 +28,7 @@ The genotypic similarity between two given cohorts was assessed by estimating th
 
 **References**  
 [1] Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, et al. Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc Natl Acad Sci.2005;102(43):15545–50  
-[2] Pravallika G, Rajasekaran R. Stage II oesophageal carcinoma: peril in disguise associated with cellular reprogramming and oncogenesis regulated by pseudogenes. BMC Genomics. 2024 Feb 2;25(1):135 
+[2] Pravallika G, Rajasekaran R. Stage II oesophageal carcinoma: peril in disguise associated with cellular reprogramming and oncogenesis regulated by pseudogenes. BMC Genomics. 2024 Feb 2;25(1):135  
 [3] Chang LJ, Jolly E, Cheong JH, Rapuano KM, Greenstein N, Chen PHA, et al. Endogenous variation in ventromedial prefrontal cortex state dynamics during naturalistic viewing reflects affective experience. Sci Adv. 2021 Apr 23;7(17):eabf7129.  
 [4] Eid M, Gollwitzer M, Schmitt M. Statistik und Forschungsmethoden [Statistics and research methods]. 5th ed. Weinheim, Germany: Beltz; 2017.  
 
